@@ -9,16 +9,8 @@ House of The Dragon é uma aplicação full stack web construída durante um , e
 
 Este site apresenta informações sobre todos os dragões da Casa Targaryen, destacando sua importância, características e feitos históricos.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Image](https://github.com/user-attachments/assets/0d0aeed7-1a88-4b1c-9a8e-ddf3d623b8d0)
 
 # 🚀 Tecnologias utilizadas
 ## Front end
@@ -29,12 +21,9 @@ Este site apresenta informações sobre todos os dragões da Casa Targaryen, des
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Katieleolin/projeto-the-dragon.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -48,10 +37,17 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Katieleolin/projeto-the-dragon.git
 
 # entrar na pasta do projeto front end web
 cd front-web
 
 # instalar dependências
 yarn install
+
+
+# Autor
+
+Katiele Oliveira da Silva
+
+https://www.linkedin.com/in/katiele-oliveira-1a0b2324/
