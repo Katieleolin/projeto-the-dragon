@@ -1,13 +1,13 @@
-# Big Game Survey 
+# 🐉 The Dragon - Todos os Dragões Targaryen
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Katieleolin/projeto-the-dragon/blob/main/LICENSE) 
 
-# Sobre o projeto
+# 🔥 Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://katieleolin.github.io/projeto-the-dragon/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+House of The Dragon é uma aplicação full stack web construída durante um , evento organizado pela [DevemDobro](https://dev-em-dobro.ticto.club/signin?redirect=/play").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+Este site apresenta informações sobre todos os dragões da Casa Targaryen, destacando sua importância, características e feitos históricos.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
@@ -20,22 +20,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+# 🚀 Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML 
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- CSS
+- JavaScript
 
 # Como executar o projeto
 
